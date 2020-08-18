@@ -1,0 +1,13 @@
+enquiry,offer,discount
+enquiry,list,menu
+greet,Hello,"Hi,Hey,Holla"
+greet,Good afternoon,"ga,gud aft"
+greet,Good evening,"ge,gud eve"
+greet,Good morning,"gm,gud mrng,mrng"
+location,Powai
+location,Andheri
+location,Bandra
+timings,Saturday
+timings,Holi
+timings,Sunday
+timings,Diwali
